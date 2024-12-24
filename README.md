@@ -1,7 +1,3 @@
-Here is a comprehensive `README.md` file for your Fall Detection System project:
-
----
-
 # 🚨 Fall Detection System
 
 ---
